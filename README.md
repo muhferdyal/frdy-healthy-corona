@@ -1,0 +1,2 @@
+# frdy-healthy-corona
+sederhana
